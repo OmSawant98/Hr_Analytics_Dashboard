@@ -22,8 +22,11 @@ hr-analytics-dashboard/
 ![Overview](images/overview.png)
 
 **By Department (Slicers)**
+**HR**
 ![HR](images/hr_department.png)
+**R&D**
 ![R&D](images/rnd_department.png)
+**SALES**
 ![Sales](images/sales_department.png)
 
 ## 📊 Key Insights
@@ -38,3 +41,4 @@ Dummy data created for demonstration purposes.
 ## 👤 Author
 **Omkar Sawant**  
 [LinkedIn](https://www.linkedin.com/in/omkar-sawant-9118742ab/) • [GitHub](https://github.com/OmSawant98)
+
